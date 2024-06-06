@@ -28,6 +28,7 @@ https://github.com/francescobardi/pde_solver_deep_learned
 - my_solver 2dim.ipynb: performs experiment in 2 dimensions
 - my_solver 3dim.ipynb: performs experiment in 3 dimensions
 
+<!---
 ### Learning Process
 
 1. Random Dirichlet problems are created and solved with
@@ -35,3 +36,4 @@ https://github.com/francescobardi/pde_solver_deep_learned
 
 2. These solved problems are passed to __JacobyWithConv__ solver, which
 trains new ConvNet, which is H.
+-->
